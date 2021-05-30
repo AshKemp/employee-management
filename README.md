@@ -6,4 +6,4 @@ A Mini-Project about Employee Management System. Included Basic CRUD Operations
 Frontend: React JS
 Backend
 API: Springboot
-DB: MYSQL
+DB: MYSQL Database
